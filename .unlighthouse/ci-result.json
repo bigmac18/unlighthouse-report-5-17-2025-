@@ -1,0 +1,1602 @@
+[
+  {
+    "path": "/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.78,
+    "seo": 0.85
+  },
+  {
+    "path": "/3-early-signs-of-an-eating-disorder-and-3-ways-to-help/",
+    "score": 0.78,
+    "performance": 0.51,
+    "accessibility": 0.85,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/3-effective-ways-to-stop-feeling-overwhelmed/",
+    "score": 0.76,
+    "performance": 0.44,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/4-things-to-consider-as-your-teen-prepares-to-leave-home/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/4-tips-that-will-transform-your-communication-with-anyone/",
+    "score": 0.74,
+    "performance": 0.48,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.85
+  },
+  {
+    "path": "/5-anxiety-coping-mechanisms-to-practice-with-your-teen/",
+    "score": 0.8,
+    "performance": 0.54,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/6-early-signs-of-depression-and-anxiety/",
+    "score": 0.29,
+    "performance": 0.36,
+    "accessibility": null,
+    "best-practices": 0.78,
+    "seo": null
+  },
+  {
+    "path": "/7-keys-to-the-excitement-phase/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/8-waterfalls-waiting-for-you-after-discharge/",
+    "score": 0.06,
+    "performance": 0.25,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/8-ways-to-see-the-best/",
+    "score": 0.73,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.59,
+    "seo": 0.92
+  },
+  {
+    "path": "/885-2/",
+    "score": 0.76,
+    "performance": 0.54,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/a-home-team-success-story/",
+    "score": 0.78,
+    "performance": 0.57,
+    "accessibility": 0.85,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/a-jumping-off-point/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/a-new-dawn/",
+    "score": 0.77,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/a-plague-among-us/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/after-care/",
+    "score": 0.81,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/afton-thayne/",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/all-that-mom-guilt/",
+    "score": 0.77,
+    "performance": 0.59,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/allison-posell-check-filter/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/allison-posell-cloned-3899/",
+    "score": 0.8,
+    "performance": 0.59,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/allison-posell-consistency-plan/",
+    "score": 0.79,
+    "performance": 0.58,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/allison-posell-slow-things/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/allison-posell-transition-coach/",
+    "score": 0.79,
+    "performance": 0.57,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/allison-posell/",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/are-you-going-stale/",
+    "score": 0.78,
+    "performance": 0.58,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/as-the-slogan-goesreach-out-and-touch-someone/",
+    "score": 0.75,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.85
+  },
+  {
+    "path": "/ashlynn-lybbert/",
+    "score": 0.81,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/author/jayson/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/author/michael-mcconkie/",
+    "score": 0.81,
+    "performance": 0.61,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/because-of-the-changes-we-have-all-made-the-love-and-humor-is-back-in-our-family-again-best-remedy-in-the-world/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/best-practices/",
+    "score": 0.74,
+    "performance": 0.58,
+    "accessibility": 0.88,
+    "best-practices": 0.59,
+    "seo": 0.92
+  },
+  {
+    "path": "/blog/",
+    "score": 0.81,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/brooke-hersh/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/build-strong-communication-skills-this-holiday-season-by-learning-to-listen/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.89,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/cade-dopp/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/capturing-inspiration-to-re-play-later/",
+    "score": 0.78,
+    "performance": 0.59,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/carolyn-brown-transition-coach/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/carolyn-brown-trigger-turnaround/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/carolyn-brown/",
+    "score": 0.8,
+    "performance": 0.57,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/category/coaching-team/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/category/family-life/",
+    "score": 0.8,
+    "performance": 0.57,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/category/media-and-videos/",
+    "score": 0.8,
+    "performance": 0.58,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/category/parenting/",
+    "score": 0.8,
+    "performance": 0.6,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/category/teens-stalled-out-in-responsibilities-and-pleasures-of-adulthood/",
+    "score": 0.8,
+    "performance": 0.58,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/category/teens/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/category/testimonials/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/category/uncategorized/",
+    "score": 0.8,
+    "performance": 0.58,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/come-on-lets-play-2/",
+    "score": 0.77,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/come-on-lets-play/",
+    "score": 0.31,
+    "performance": 0.51,
+    "accessibility": null,
+    "best-practices": 0.74,
+    "seo": null
+  },
+  {
+    "path": "/community-action-by-homeward-bound/",
+    "score": 0.8,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/contact/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/could-this-person-come-into-our-world-and-really-get-us-would-it-really-work/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/daddy-daughter-bounding/",
+    "score": 0.72,
+    "performance": 0.42,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.85
+  },
+  {
+    "path": "/danielle-andrews-curiosity-creates-new-patterns/",
+    "score": 0.77,
+    "performance": 0.57,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.85
+  },
+  {
+    "path": "/danielle-andrews/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/david-kabanje/",
+    "score": 0.82,
+    "performance": 0.59,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/dawnie-williams-2/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/dawnie-williams/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/devon-ray/",
+    "score": 0.79,
+    "performance": 0.58,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/does-your-teen-have-depression-heres-how-to-spot-it-2/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/does-your-teen-have-depression-heres-how-to-spot-it/",
+    "score": 0.77,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/early-care-video/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/early-care/",
+    "score": 0.81,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/ed-callahan-not-taking-blame-kids-failures/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/ed-callahan-privileges-give-back/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/ed-callahan/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/edward-boyer/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/emily-pfizenmayer-hesitant-home-team/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/emily-pfizenmayer-supporting-sobriety/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/emily-pfizenmayer/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/example-example-example/",
+    "score": 0.77,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/family-stories/",
+    "score": 0.83,
+    "performance": 0.61,
+    "accessibility": 0.92,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/finding-peace-at-home-this-holiday-season/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/five-steps-to-overcoming-pain-and-disappointment/",
+    "score": 0.7,
+    "performance": 0.39,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.77
+  },
+  {
+    "path": "/footloose-and-fancy-free/",
+    "score": 0.76,
+    "performance": 0.52,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/forbes-books-interview/",
+    "score": 0.74,
+    "performance": 0.58,
+    "accessibility": 0.88,
+    "best-practices": 0.59,
+    "seo": 0.92
+  },
+  {
+    "path": "/four-ways-to-increase-parental-stamina-2/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/four-ways-to-increase-parental-stamina/",
+    "score": 0.75,
+    "performance": 0.52,
+    "accessibility": 0.85,
+    "best-practices": 0.78,
+    "seo": 0.85
+  },
+  {
+    "path": "/fran-schlenoff/",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/from-greenhouse-to-garden/",
+    "score": 0.77,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/fusion-global-academy/",
+    "score": 0.79,
+    "performance": 0.58,
+    "accessibility": 0.89,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/gardening-a-harvest-of-benefits/",
+    "score": 0.76,
+    "performance": 0.45,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/go-to-bed-5/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/got-milk-2/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/got-milk/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/grandparents-rock/",
+    "score": 0.77,
+    "performance": 0.58,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/grandpas-pick-ax-2/",
+    "score": 0.77,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/grandpas-pick-ax/",
+    "score": 0.77,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/guest-post-from-roxanne-around-the-family-table/",
+    "score": 0.77,
+    "performance": 0.58,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/guest-post-from-roxanne-everyday-letters-for-all-occasions/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/guest-post-from-roxanne-fabulous-gifts-hollywoods-gifts-guru-reveals-the-secret-to-giving-the-perfect-present-2/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.85
+  },
+  {
+    "path": "/guest-post-from-roxanne-fabulous-gifts-hollywoods-gifts-guru-reveals-the-secret-to-giving-the-perfect-present/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/had-she-stuck-to-a-script-with-us-she-would-have-lost-us-or-been-less-than-effective-instead-she-learned-about-us-our-skills-and-shaped-the-process-and-flow-to-meet-our-already-abundant-s/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/hailey-ransley/",
+    "score": 0.8,
+    "performance": 0.6,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/helping-my-daughter/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/heres-what-i-say-about-royal-weddings/",
+    "score": 0.77,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/heres-your-green-light-go-2/",
+    "score": 0.77,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/heres-your-green-light-go/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/homeward-bound-advance-2018/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/homeward-bound-considered-the-dynamics-with-all-four-of-our-children-and-worked-with-us-to-understand-how-my-wife-and-i-could-improve-the-relationships-with-all-of-our-children/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/homeward-bound-has-anticipated-virtually-every-issue-we-have-encountered/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/honoring-parents-who-put-their-trust-in-us/",
+    "score": 0.77,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/how-a-salami-stick-can-be-a-better-gift-than-new-skis/",
+    "score": 0.74,
+    "performance": 0.55,
+    "accessibility": 0.8,
+    "best-practices": 0.74,
+    "seo": 0.85
+  },
+  {
+    "path": "/how-parents-can-inspire-a-passion-for-lifelong-learning/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/how-teens-can-be-a-pain-in-the-shoulder/",
+    "score": 0.77,
+    "performance": 0.59,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/how-to-build-a-supportive-home-team/",
+    "score": 0.8,
+    "performance": 0.58,
+    "accessibility": 0.85,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/how-your-teens-are-stalled-out-and-what-to-do-about-it-right-now/",
+    "score": 0.77,
+    "performance": 0.57,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/i-fully-admit-to-being-skeptical-that-homeward-bound-would-provide-any-benefit/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/i-use-to-feel-lonely-because-no-one-knew-what-to-say-to-me-or-how-to-help-us-now-i-am-not-so-lonely-and-there-is-greater-harmony-in-our-home/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/identifying-potential-natural-mentors-for-your-teen/",
+    "score": 0.78,
+    "performance": 0.58,
+    "accessibility": 0.85,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/ill-take-a-funeral-over-a-wedding-any-day-2/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/ill-take-a-funeral-over-a-wedding-any-day/",
+    "score": 0.77,
+    "performance": 0.54,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/im-not-grateful-for-my-lost-skeleton-costume-2/",
+    "score": 0.77,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/im-not-grateful-for-my-lost-skeleton-costume/",
+    "score": 0.77,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/in-the-spirit-of-thanksgiving/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/inventing-a-wheel/",
+    "score": 0.73,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.59,
+    "seo": 0.92
+  },
+  {
+    "path": "/is-there-place-for-shame/",
+    "score": 0.73,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.59,
+    "seo": 0.92
+  },
+  {
+    "path": "/is-your-son-struggling/",
+    "score": 0.79,
+    "performance": 0.57,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/is-your-teen-missing-out-on-important-life-lessons-about-actions-and-consequences/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/it-helped-immensely-for-him-to-see-us-in-our-home-environment-to-understand-our-lives-and-tailor-his-recommendations-to-us-and-our-personalities/",
+    "score": 0.8,
+    "performance": 0.58,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/it-takes-a-scout-troop/",
+    "score": 0.77,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/jamee-mack-curious-whats-underneath/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/jamee-mack-transition-coach/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/jeanette-pixton/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/jordan-bybee/",
+    "score": 0.82,
+    "performance": 0.58,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/kaden-westerlind/",
+    "score": 0.81,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/kandace-northrup/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/kelly-olson-invitation-not-manipulation/",
+    "score": 0.79,
+    "performance": 0.57,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/kelly-olson-msw/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/kelly-olson-pause-saying-no/",
+    "score": 0.79,
+    "performance": 0.58,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/kelly-olson/",
+    "score": 0.81,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/ken-newell/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/leah-abrusci-moving-past-guilt/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/leah-abrusci-resume-failure/",
+    "score": 0.79,
+    "performance": 0.59,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/leah-abrusci-transition-coach/",
+    "score": 0.8,
+    "performance": 0.6,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/leanna-caldwell/",
+    "score": 0.81,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/learned-helplessness-and-learned-optimism/",
+    "score": 0.72,
+    "performance": 0.51,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.77
+  },
+  {
+    "path": "/letting-go-doesnt-mean-giving-up-2/",
+    "score": 0.77,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/letting-go-doesnt-mean-giving-up/",
+    "score": 0.78,
+    "performance": 0.59,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/lilli-kempton/",
+    "score": 0.81,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/lisa-hampshire-transition-coach/",
+    "score": 0.79,
+    "performance": 0.59,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/listen-then-listen-some-more/",
+    "score": 0.06,
+    "performance": 0.25,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/live-like-you-were-dying-because-if-you-knew-you-were-you-would-and-the-reality-is-you-are/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/look-before-you-leap-feedforward-vs-feedback/",
+    "score": 0.78,
+    "performance": 0.58,
+    "accessibility": 0.85,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/looking-back-how-has-2020-changed-you/",
+    "score": 0.76,
+    "performance": 0.53,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.85
+  },
+  {
+    "path": "/lyle-nelson-tackling-challenges/",
+    "score": 0.79,
+    "performance": 0.58,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lyle-nelson-transition-coach/",
+    "score": 0.79,
+    "performance": 0.59,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lyle-nelson/",
+    "score": 0.8,
+    "performance": 0.59,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/making-it-through-the-testing-phase-what-to-expect-how-to-overcome/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/manage-your-expectations/",
+    "score": 0.77,
+    "performance": 0.59,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.85
+  },
+  {
+    "path": "/marina-voron-building-home-team/",
+    "score": 0.79,
+    "performance": 0.58,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/marina-voron-managing-sibling-conflict/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/marina-voron-transition-coach/",
+    "score": 0.79,
+    "performance": 0.58,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/matthew-hendry-nurturing-relationship/",
+    "score": 0.8,
+    "performance": 0.6,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/matthew-hendry-transition-coach/",
+    "score": 0.8,
+    "performance": 0.6,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/matthew-hendry/",
+    "score": 0.8,
+    "performance": 0.6,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/media-video/",
+    "score": 0.81,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/meet-our-executive-team/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/meredith-mcgarvey-navigating-conflict-using-curiosity/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/meredith-mcgarvey-transition-coach/",
+    "score": 0.79,
+    "performance": 0.57,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/meredith-silversmith-ma-lmft/",
+    "score": 0.8,
+    "performance": 0.57,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/meredith-silversmith-transition-coach/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/meredith-silversmith-working-disagreements/",
+    "score": 0.77,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.85
+  },
+  {
+    "path": "/michael-mcconkie/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/michelle-mulford-2/",
+    "score": 0.8,
+    "performance": 0.59,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/michelle-westerlind/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/mike-gurr-transition-coach/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/mike-gurr/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/mira-vanjari/",
+    "score": 0.8,
+    "performance": 0.6,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/missed-airplane-means-first-class-ticket/",
+    "score": 0.78,
+    "performance": 0.58,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/my-hopes-for-homeward-bound-was-that-they-could-fix-my-son-it-didnt-happen-but-something-else-did/",
+    "score": 0.8,
+    "performance": 0.6,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/my-kids-a-bump-on-a-log-2/",
+    "score": 0.75,
+    "performance": 0.54,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.85
+  },
+  {
+    "path": "/my-kids-a-bump-on-a-log/",
+    "score": 0.77,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/my-mistake-was-what-he-needed-2/",
+    "score": 0.75,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.85
+  },
+  {
+    "path": "/my-mistake-was-what-he-needed/",
+    "score": 0.28,
+    "performance": 0.38,
+    "accessibility": null,
+    "best-practices": 0.74,
+    "seo": null
+  },
+  {
+    "path": "/my-reactivity-and-my-husbands-anger-were-as-much-true-impediments-to-family-peace-as-was-our-sons-drug-use/",
+    "score": 0.78,
+    "performance": 0.57,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.85
+  },
+  {
+    "path": "/nbc-program/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/needs-to-work-on-his-anger-2/",
+    "score": 0.77,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/needs-to-work-on-his-anger/",
+    "score": 0.75,
+    "performance": 0.54,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.85
+  },
+  {
+    "path": "/new-reason-for-hope/",
+    "score": 0.8,
+    "performance": 0.59,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/nicole-salazar/",
+    "score": 0.81,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/noah-taylor/",
+    "score": 0.82,
+    "performance": 0.6,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/not-by-chance-annual-invite/",
+    "score": 0.8,
+    "performance": 0.6,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/not-by-chance/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/nothing-short-of-a-miracle-saving-her-life-and-our-sanity/",
+    "score": 0.8,
+    "performance": 0.58,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/our-son-was-hurting-himself-and-others-through-bad-choices-he-was-making-he-went-from-one-private-school-to-the-next-and-even-home-school-then-to-several-wilderness-programs-only-to-retur/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/our-team/",
+    "score": 0.83,
+    "performance": 0.61,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 1
+  },
+  {
+    "path": "/parent-as-a-talent-scout/",
+    "score": 0.75,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.85
+  },
+  {
+    "path": "/parenting-farrier-video/",
+    "score": 0.75,
+    "performance": 0.48,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.85
+  },
+  {
+    "path": "/parenting-lesson-1-by-joe-the-horse/",
+    "score": 0.77,
+    "performance": 0.53,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/parents-do-this-all-the-time/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/partners/",
+    "score": 0.77,
+    "performance": 0.57,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.85
+  },
+  {
+    "path": "/pediatricians-front-lines-depression/",
+    "score": 0.75,
+    "performance": 0.6,
+    "accessibility": 0.88,
+    "best-practices": 0.59,
+    "seo": 0.92
+  },
+  {
+    "path": "/people-who-believe-in-you/",
+    "score": 0.79,
+    "performance": 0.58,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/peter-henrie/",
+    "score": 0.8,
+    "performance": 0.58,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/play-with-them/",
+    "score": 0.77,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/practice-for-parents-parenting-doesnt-always-come-naturally-2/",
+    "score": 0.77,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/practice-for-parents-parenting-doesnt-always-come-naturally/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/press-releases/",
+    "score": 0.8,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/privacy-policy/",
+    "score": 0.83,
+    "performance": 0.61,
+    "accessibility": 0.92,
+    "best-practices": 0.78,
+    "seo": 1
+  }
+]
